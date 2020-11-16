@@ -16,7 +16,7 @@ Training Dataset consist of 4296 images in which 2455 images have label with mas
 First I import Required modules like tensorflow , keras ,optimizer , layers and pretrained model(MobileNetV2)
 
 ### Loading Data And Augment Image :
-	Now I load all images for training and preprocess using MobileNetv2 preprocess_input through which the images are ready as mobilenetv2 require . we also Augment our images through which we can get more data and variety in data. we add augmentation technique like zoom , horizontal and vertical flip , rotation . 
+Now I load all images for training and preprocess using MobileNetv2 preprocess_input through which the images are ready as mobilenetv2 require . we also Augment our images through which we can get more data and variety in data. we add augmentation technique like zoom , horizontal and vertical flip , rotation . 
 After this step we have training and validation batches  which mobilenetv2 require as input .
 
 ### Loading Pretarined Model  :
