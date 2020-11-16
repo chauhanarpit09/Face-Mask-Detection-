@@ -8,6 +8,9 @@ In this Project I used Transfer learning to train model on dataset in which I us
 ## MobileNetV2
 MobileNets are small, low-latency, low-power models parameterized to meet the resource constraints of a variety of use cases. They can be built upon for classification, detection, embeddings and segmentation similar to how other popular large scale models, MobileNetv2 is a Significant Improvement over MobileNetV1 . The Structure of MobileNetV1 and V2 is below .
 
+![image](https://user-images.githubusercontent.com/49450216/99240049-ef5fd900-2821-11eb-8585-6bafea047416.png)
+
+
 Now , Come to Code Explanation 
 ### Dataset
  In the Dataset we have two types of images one who wore mask and other which do not have mask.
