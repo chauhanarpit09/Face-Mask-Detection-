@@ -1,3 +1,4 @@
+Download and run facemaskdetector.py file for demo
 # Face-Mask-Detection-
 
 
